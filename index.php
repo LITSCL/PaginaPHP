@@ -10,6 +10,7 @@
     <h1>Página WEB PHP</h1>
 </body>
 </html>
+
 <?php
-	echo "Hola Mundo";
+echo "Hola Mundo";
 ?>
